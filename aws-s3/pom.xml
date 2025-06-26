@@ -33,7 +33,7 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-s3</artifactId>
-            <version>1.12.300</version> <!-- 请根据需要选择合适的版本 -->
+            <version>1.12.787</version> <!-- 请根据需要选择合适的版本 -->
         </dependency>
     </dependencies>
 </project>
