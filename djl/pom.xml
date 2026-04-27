@@ -66,7 +66,7 @@
                     <artifactId>pytorch-native-cpu</artifactId>
                     <classifier>win-x86_64</classifier>
                     <scope>runtime</scope>
-                    <version>2.0.1</version>
+                    <version>2.7.1</version>
                 </dependency>
                 <dependency>
                     <groupId>ai.djl.pytorch</groupId>
@@ -110,7 +110,7 @@
                     <artifactId>pytorch-native-cpu</artifactId>
                     <classifier>linux-x86_64</classifier>
                     <scope>runtime</scope>
-                    <version>2.0.1</version>
+                    <version>2.7.1</version>
                 </dependency>
                 <dependency>
                     <groupId>ai.djl.pytorch</groupId>
